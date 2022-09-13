@@ -19,4 +19,4 @@ A aplicação consiste em construir um máquina de aprendizagem preditiva que id
 # Como executar o projeto
 ## Autor
 Andrei Camilo dos Santos
-https://www.linkedin.com/in/andrei0118-santos
+https://www.linkedin.com/in/andrei0118-santos/
