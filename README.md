@@ -10,13 +10,14 @@ A aplicação consiste em construir um máquina de aprendizagem preditiva que id
 - **Instalação de pacotes e bibliotecas**
 - **Leitura e pré-processamento dos dados**
 - **Balanceamento e normalização dos dados**
-- **Algoritmos de aprendizagem de máquinas (classificadores) **
+- **Algoritmos de aprendizagem de máquinas (classificadores)**
 
 # Tecnologias utilizadas
 - [Google Colab] https://colab.research.google.com/
 - [Python] https://www.python.org/
 
-# Como executar o projeto
 ## Autor
+
 Andrei Camilo dos Santos
+
 https://www.linkedin.com/in/andrei0118-santos/
