@@ -12,7 +12,7 @@ A aplicação consiste em construir um máquina de aprendizagem preditiva que id
 - **Balanceamento e normalização dos dados**
 - **Algoritmos de aprendizagem de máquinas (classificadores)**
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 - [Google Colab] https://colab.research.google.com/
 - [Python] https://www.python.org/
 
